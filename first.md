@@ -4,5 +4,3 @@ apa
 lapte
 rosii
 branza
-banane
-capsuni
